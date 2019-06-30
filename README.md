@@ -1,5 +1,6 @@
 # pytojs
-↪️ Python to Javascript converter (In-development 0.0.1a) ↩️
+↪️ Python to Javascript converter (In-development 0.0.1a) ↩️<br/><br/>
+<a href=""><img src="https://img.shields.io/github/license/truedl/pytojs.svg?style=plastic" alt=""></a>
 
 ## Functionality (0.0.1a)
 - Variable
