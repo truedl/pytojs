@@ -5,5 +5,6 @@ default_functions = {
 default_keywords = {
     'null': 'None',
     'is': '===',
+    '==': '===',
     'pass': ''
 }

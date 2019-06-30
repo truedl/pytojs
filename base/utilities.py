@@ -52,7 +52,7 @@ class Defaults:
     def keywords(line: str) -> str:
         for keyword in default_keywords:
             if keyword in line:
-                line = line.replace(keyword, default_keywords[func])
+                line = line.replace(keyword, default_keywords[keyword])
 
         return line
 
