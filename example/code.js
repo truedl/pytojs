@@ -1,7 +1,7 @@
 console.log('Hello, World!');
 var x = 10;
 console.log(x);
-if(x == 10){
+if(x === 10){
 	console.log('x is 10');
 	if(1){
 		console.log('x');
